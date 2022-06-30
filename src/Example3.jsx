@@ -1,5 +1,5 @@
 import { useContext } from "react"
-import { UserContextProvider,UserContext } from "../UserContext"
+import { UserContextProvider,UserContext } from "./UserContext"
 
 const Example3=()=>{
     return <>
